@@ -1,0 +1,6 @@
+{
+  "name": "Insight Engine",
+  "description": "Plataforma de inteligência de dados B2B para planejamento criativo com RAG estrito anti-alucinação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
